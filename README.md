@@ -8,4 +8,4 @@ Adding file to Github with branches.
 Got everything working and sent to GitHub. Development branch is `thibert-derek-patch-1`.
 
 11/07/19
-Added a contact page.
+Added a contact page. Added an about page.
